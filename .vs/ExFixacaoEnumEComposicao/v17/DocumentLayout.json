@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|c:\\users\\ruanp\\documents\\c#\\exfixacaoenumecomposicao\\exfixacaoenumecomposicao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|solutionrelative:exfixacaoenumecomposicao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|c:\\users\\ruanp\\documents\\c#\\exfixacaoenumecomposicao\\exfixacaoenumecomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|solutionrelative:exfixacaoenumecomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|c:\\users\\ruanp\\documents\\c#\\exfixacaoenumecomposicao\\exfixacaoenumecomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|solutionrelative:exfixacaoenumecomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|c:\\users\\ruanp\\documents\\c#\\exfixacaoenumecomposicao\\exfixacaoenumecomposicao\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|solutionrelative:exfixacaoenumecomposicao\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|c:\\users\\ruanp\\documents\\c#\\exfixacaoenumecomposicao\\exfixacaoenumecomposicao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|solutionrelative:exfixacaoenumecomposicao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|c:\\users\\ruanp\\documents\\c#\\exfixacaoenumecomposicao\\exfixacaoenumecomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF0B180-DCD3-4E4E-8C6B-9497B04AC68D}|ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao.csproj|solutionrelative:exfixacaoenumecomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 141,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "ExFixacaoEnumEComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Program.cs",
+              "RelativeToolTip": "ExFixacaoEnumEComposicao\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:38:12.353Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ExFixacaoEnumEComposicao\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Order.cs",
+              "RelativeToolTip": "ExFixacaoEnumEComposicao\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:48:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ExFixacaoEnumEComposicao\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Client.cs",
+              "RelativeToolTip": "ExFixacaoEnumEComposicao\\Entities\\Client.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:48:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ExFixacaoEnumEComposicao\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ExFixacaoEnumEComposicao\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:51:00.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExFixacaoEnumEComposicao\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Product.cs",
+              "RelativeToolTip": "ExFixacaoEnumEComposicao\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:51:19.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ExFixacaoEnumEComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\ruanp\\Documents\\C#\\ExFixacaoEnumEComposicao\\ExFixacaoEnumEComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "ExFixacaoEnumEComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:46:01.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

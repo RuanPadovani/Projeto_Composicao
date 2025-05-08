@@ -1,0 +1,14 @@
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\bin\Debug\net8.0\ExFixacaoEnumEComposicao.exe
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\bin\Debug\net8.0\ExFixacaoEnumEComposicao.deps.json
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\bin\Debug\net8.0\ExFixacaoEnumEComposicao.runtimeconfig.json
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\bin\Debug\net8.0\ExFixacaoEnumEComposicao.dll
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\bin\Debug\net8.0\ExFixacaoEnumEComposicao.pdb
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.AssemblyInfoInputs.cache
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.AssemblyInfo.cs
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.csproj.CoreCompileInputs.cache
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.dll
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\refint\ExFixacaoEnumEComposicao.dll
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.pdb
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ExFixacaoEnumEComposicao.genruntimeconfig.cache
+C:\Users\ruanp\Documents\C#\ExFixacaoEnumEComposicao\ExFixacaoEnumEComposicao\obj\Debug\net8.0\ref\ExFixacaoEnumEComposicao.dll
